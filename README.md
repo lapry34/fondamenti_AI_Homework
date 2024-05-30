@@ -29,11 +29,12 @@ This repository contains the implementation of various machine learning models a
 
 ## Getting Started
 1. **Clone the repository:**
+2. **Install requirements and run it**
    ```sh
-   git clone https://github.com/yourusername/machine-learning-homework.git
-   cd machine-learning-homework
+   cd fondamenti_AI_Homework
    pip install -r requirements.txt
    jupyter notebook
+   ```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
