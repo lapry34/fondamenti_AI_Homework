@@ -39,4 +39,4 @@ This repository contains the implementation of various machine learning models a
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-Special thanks to Prof. Silvestri for the guidance and support throughout the course.
+Special thanks to [Prof. Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home) for the guidance and support throughout the course.
