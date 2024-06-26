@@ -28,7 +28,7 @@ This repository contains the implementation of various machine learning models a
 
 
 ## Getting Started
-1. **Clone the repository:**
+1. **Clone the repository**
 2. **Install requirements and run it**
    ```sh
    cd fondamenti_AI_Homework
